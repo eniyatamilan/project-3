@@ -1,0 +1,9 @@
+fruits = ["apple", "banana", "orange"]
+print("Fruits:", fruits)
+
+# Accessing elements
+print("First fruit:", fruits[0])
+
+# Adding elements
+fruits.append("grape")
+print("Updated fruits:", fruits)
